@@ -1,0 +1,9 @@
+.vs/
+angular-dotnet/obj/
+Api.Tests/bin/
+Api.Tests/obj/Debug/net9.0/Api.Tests.csproj.FileListAbsolute.txt
+Api.Tests/obj/Debug/net9.0/Api.Tests.csproj.Up2Date
+Api.Tests/obj/
+Api/bin/Debug/net9.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+Api/bin/
+Api/obj/
