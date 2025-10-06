@@ -36,3 +36,4 @@ src/app/
 │   ├── error.interceptor   # Global error handling
 │   └── loading.interceptor # Loading state management
 └── app.html             # Main application template
+
